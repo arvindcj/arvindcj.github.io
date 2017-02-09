@@ -1,4 +1,4 @@
-* Arivnd Janakiram
-** Good Books 
-*** Databases
+#+TITLE Arvind Janakiram
+* Good Books 
+** Databases
     - http://www.redbook.io/
