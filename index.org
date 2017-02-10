@@ -2,5 +2,4 @@
 * Good Books 
 ** Databases
     - http://www.redbook.io/
-    - [[file:books/sql.html][SQL
-]]
+    - [[file:books/sql.html][SQL]]
