@@ -21,7 +21,7 @@
 title: Arvind CJ
 email: code@arvindcj.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal Technical Blogging site
+  Personal Technical Blogging site © 2022 arvindcj.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: www.arvindcj.com
 url: https://www.arvindcj.com # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,6 +32,12 @@ github_username:  arvindcj
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-6X0P55GHRG          # Required - replace with your tracking id
+    anonymizeIp: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
