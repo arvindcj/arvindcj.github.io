@@ -2,6 +2,7 @@
 layout: post
 title:  "Metaprogramming Essentials"
 date:   2022-11-15 14:41:39 +0530
+updated: 2022-11-17 14:41:39 +0530
 categories: software_engineering
 ---
 <!---
