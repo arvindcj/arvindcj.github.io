@@ -8,6 +8,9 @@ categories: software_engineering
 
 ## Introduction ##
 
+The article is a gentle introduction to Metaprogramming in the Ruby context 
+
+
 Metaprogramming is essentially programming language features that enable programmers to "create programs that write programs". In-other terms the ability of a program to modify itself at runtime without the need for recompilation. The Ruby Kernel method `eval`  accepts a `String` and evaluates its argument within the context of the main program.
 
 ```
