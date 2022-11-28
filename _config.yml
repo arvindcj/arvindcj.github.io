@@ -35,10 +35,6 @@ plugins:
   - jekyll-analytics
   - jekyll-seo-tag
 
-google:
-  tag_manager:
-    container_id: G-6X0P55GHRG
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
