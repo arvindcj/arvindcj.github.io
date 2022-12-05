@@ -55,7 +55,6 @@ It is a feature of a programming language to examine and modify its structural c
 |  |   | clone  |   |  |   |
 |  |   | dup |   |  |   |
 |  |   | instance_variable_set  |   |  |   |
-
 | **Read** | `__id__` | ancestors |   |   |   |
 |  |   | class |   |  |   |  
 |  |   | superclass |   |  |   |  
