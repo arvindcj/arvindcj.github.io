@@ -21,13 +21,15 @@
 title: Arvind CJ
 email: code@arvindcj.com
 description: >- # this means to ignore newlines until "baseurl:"
-  © 2022 arvindcj.com.
+  Ruby, Elixir, Javascript, Java, DevOps and Web-Infrastructure
+  © 2023 arvindcj.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: www.arvindcj.com
 url: https://www.arvindcj.com # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: arvindcj5
 github_username:  arvindcj
+linkedin_username: arvindcj
 
 # Build settings
 theme: minima
