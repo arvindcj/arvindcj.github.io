@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Portfolio
+permalink: /portfolio/
 ---
 
 ## Hey, I’m Arvind, nice to meet you!
