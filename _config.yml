@@ -20,7 +20,7 @@
 
 title: Your awesome title
 email: your-email@example.com
-description: | #>- # this means to ignore newlines until "baseurl:"
+description: > #>- # this means to ignore newlines until "baseurl:"
   🚀 I Build Digital Products Like They’re My Art.
   From idea sparks to shipped realities, I’m obsessed with building products that work beautifully—but also feel right. 
   I don’t just code 
