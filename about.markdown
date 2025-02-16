@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+🚀 I Build Digital Products Like They’re My Art.
+From idea sparks to shipped realities, I’m obsessed with building products that work beautifully—but also feel right.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I don’t just code;
+I architect experiences.
+I design flows that hum with logic.
+I ship products that make people go “oh, this just works.”
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+End to end—concept, design, development, launch, growth—I love it all.
 
+I believe great products = precision + intuition:
 
-[jekyll-organization]: https://github.com/jekyll
+Systems that scale, but don’t feel robotic.
+Interfaces that look sharp, but never get in the user’s way.
+Tech that fades into the background, so what shines is the experience.
+Every line of code, every design decision—it’s all part of the craft.
+
+Let’s build something brilliant. 🔥
