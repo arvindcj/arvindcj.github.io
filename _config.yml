@@ -18,17 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: > #>- # this means to ignore newlines until "baseurl:"
-  🚀 I Build Digital Products Like They’re My Art.
-  From idea sparks to shipped realities, I’m obsessed with building products that work beautifully—but also feel right. 
-  I don’t just code 
-  I architect experiences 
-  I design flows that hum with logic 
-  I ship products that make people go “oh, this just works.” 
-  
-  @ 2025. End to end—concept, design, development, launch, growth—I love it all.
+title: The Product Guy!
+email: arvindcj@yahoo.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my blog. I write on a number of varied Topics. Please feel free to get intouch.
+  @ 2025.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
