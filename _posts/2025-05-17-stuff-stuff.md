@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stuff from Stuff"
-date:   2025-05-17 22:13:35 +0530
+date:   2025-05-17 09:13:35 +0530
 categories: idea organization
 ---
 
