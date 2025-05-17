@@ -5,8 +5,6 @@ date:   2025-05-17 09:13:35 +0530
 categories: idea organization
 ---
 
-## Stuff from Stuff
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/06524d60-4b80-4997-a46c-1a0b8028d014" alt="Eiffel Tower">
 </p>
