@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Stuff from Stuff"
+date:   2025-05-17 22:13:35 +0530
+categories: idea organization
+---
+
 ## Stuff from Stuff
 
 I’ve recently started a small personal project—not to build something complex, but to organize myself better by using tools I already have. Operating systems today come with excellent file systems. macOS, for example, includes built-in **tagging**, which helps with categorization. **Markdown** is a flexible, portable format for writing and linking ideas between files. So I thought: **why not combine these into a productivity and organization system with zero overhead?**
