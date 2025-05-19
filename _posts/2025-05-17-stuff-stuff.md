@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stuff from Stuff"
+title:  "Your digital memory — organized, searchable, and always available"
 date:   2025-05-17 09:13:35 +0530
 categories: idea organization
 ---
